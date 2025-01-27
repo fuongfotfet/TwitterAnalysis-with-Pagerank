@@ -1,0 +1,5 @@
+{
+  "username" : "@SolanaStatus",
+  "type" : "Following",
+  "userIDs" : [ "@SolanaFndn", "@SolanaTestnet", "@SolanaDevnet", "@solana", "@FabrizioRomano", "@ArgoBlockchain", "@SportsCenter" ]
+}

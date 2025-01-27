@@ -1,0 +1,34 @@
+{
+  "tweets": [
+    {
+      "mentions": [],
+      "retweeters": ["@GannonTheActor", "@cikosufian", "@altj7", "@Mawunyo125"],
+      "tweetID": "1707760317613129754"
+    }, {
+      "mentions": [],
+      "retweeters": ["@Ifeyossai"],
+      "tweetID": "1782365653740966157"
+    }, {
+      "mentions": [],
+      "retweeters": ["@Mawunyo125"],
+      "tweetID": "1781590169918837016"
+    }, {
+      "mentions": [],
+      "retweeters": ["@Ifeyossai", "@AlexanderJ79658", "@Mawunyo125"],
+      "tweetID": "1779806056446615795"
+    }, {
+      "mentions": [],
+      "retweeters": ["@Mawunyo125"],
+      "tweetID": "1778337696991064081"
+    }, {
+      "mentions": [],
+      "retweeters": ["@Mawunyo125"],
+      "tweetID": "1777378888173113588"
+    }, {
+      "mentions": [],
+      "retweeters": ["@AzellenAzmi", "@Mawunyo125"],
+      "tweetID": "1776729512002068606"
+    }
+  ],
+  "username": "@Oduwacoin"
+}

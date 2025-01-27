@@ -1,0 +1,40 @@
+{
+  "tweets" : [ {
+    "mentions" : [ "@LSEGplc", "@Nasdaq" ],
+    "tweetID" : "1655527977109561344"
+  }, {
+    "mentions" : null,
+    "tweetID" : "1654440807598882816"
+  }, {
+    "mentions" : [ "@ePICBlockchain" ],
+    "tweetID" : "1654021792493707266"
+  }, {
+    "mentions" : null,
+    "tweetID" : "1651847465279148032"
+  }, {
+    "mentions" : null,
+    "tweetID" : "1613069372335198210"
+  }, {
+    "mentions" : [ "@galaxydigital" ],
+    "tweetID" : "1608357910886907904"
+  }, {
+    "mentions" : [ "@PeterGWall", "@galaxydigital" ],
+    "tweetID" : "1607997057184464899"
+  }, {
+    "mentions" : [ "@galaxydigital" ],
+    "tweetID" : "1607996661766455296"
+  }, {
+    "mentions" : [ "@Nasdaq", "@LSEplc" ],
+    "tweetID" : "1607740972372197377"
+  }, {
+    "mentions" : [ "@Nasdaq" ],
+    "tweetID" : "1603646775394385923"
+  }, {
+    "mentions" : null,
+    "tweetID" : "1602368608327405604"
+  }, {
+    "mentions" : null,
+    "tweetID" : "1601110899154001920"
+  } ],
+  "username" : "@ArgoBlockchain"
+}

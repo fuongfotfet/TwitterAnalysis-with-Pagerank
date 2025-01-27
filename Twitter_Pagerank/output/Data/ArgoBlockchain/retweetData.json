@@ -1,0 +1,44 @@
+{
+  "tweets" : [ {
+    "mentions" : [ "@LSEGplc", "@Nasdaq" ],
+    "retweeters" : [ "@tinyrawr_gral" ],
+    "tweetID" : "1655527977109561344"
+  }, {
+    "mentions" : [ ],
+    "retweeters" : [ "@JamesIIIIIII", "@alboyBill", "@tddivine", "@shanksyp" ],
+    "tweetID" : "1654440807598882816"
+  }, {
+    "mentions" : [ "@ePICBlockchain" ],
+    "retweeters" : [ "@TokaliMich26615", "@babatundemuham6", "@tacticalinvest_", "@footsiebets", "@tddivine", "@markliv30927776" ],
+    "tweetID" : "1654021792493707266"
+  }, {
+    "mentions" : [ ],
+    "retweeters" : [ "@TokaliMich26615", "@Sabre_56", "@Iannotid" ],
+    "tweetID" : "1651847465279148032"
+  }, {
+    "mentions" : [ ],
+    "retweeters" : [ "@CairnDave", "@footsiebets", "@ErdosDaniel", "@BastiMV0815", "@mikeelwin", "@TaniGian" ],
+    "tweetID" : "1613069372335198210"
+  }, {
+    "mentions" : [ "@galaxydigital" ],
+    "retweeters" : [ "@Jaymboy22", "@21blacky", "@JosiasCarbon", "@ttownronjon1", "@voltron2088", "@CryptoWill190", "@jonmcclellan", "@UKTrader4", "@AfzalValli", "@Ryan56432643", "@ErdosDaniel", "@DShox1", "@JamesIIIIIII", "@krillefinance", "@jabberba", "@ward_w26954856" ],
+    "tweetID" : "1608357910886907904"
+  }, {
+    "mentions" : [ "@PeterGWall", "@galaxydigital" ],
+    "retweeters" : [ "@AfzalValli", "@voltron2088", "@keeglobal", "@TechmemeChatter", "@TinyHouseSpur", "@BABrannon", "@footsiebets", "@yizhiqingo", "@ellerby_dave", "@jabberba", "@krillefinance", "@RidyardMike" ],
+    "tweetID" : "1607997057184464899"
+  }, {
+    "mentions" : [ "@galaxydigital" ],
+    "retweeters" : [ "@ImranGondalwala", "@Sags1993", "@AfzalValli", "@RobertSJr3", "@JulienPFPF", "@AndreShields3", "@SamFost91011958", "@CryptoDomTrader", "@TinyHouseSpur", "@Alex_Codling_", "@abjunior777", "@TechmemeChatter", "@GuerillaV2", "@LiamMelvin92", "@Ryan56432643" ],
+    "tweetID" : "1607996661766455296"
+  }, {
+    "mentions" : [ "@Nasdaq", "@LSEplc" ],
+    "retweeters" : [ "@JulienPFPF", "@TechmemeChatter", "@ttownronjon1", "@Kstreet00", "@jonmcclellan", "@JeffreyAWillia4", "@Mrwoody007", "@Ryan56432643", "@AndreShields3", "@rafguvi", "@RidyardMike" ],
+    "tweetID" : "1607740972372197377"
+  }, {
+    "mentions" : [ "@Nasdaq" ],
+    "retweeters" : [ "@footsiebets", "@CryptoBudNArms", "@DenisCo42976412" ],
+    "tweetID" : "1603646775394385923"
+  } ],
+"username" : "@ArgoBlockchain"
+}
