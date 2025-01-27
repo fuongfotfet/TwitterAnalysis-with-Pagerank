@@ -53,7 +53,7 @@ java Main
 3. The collected data will be saved in the `output` directory:
 - Graph adjacency lists: Located in `output/AdjList`.
 - Raw data: Located in `output/Data`.
-
+![Scraped Data Example](report/scrape.png)
 ### 2.3. Data Processing and PageRank Calculation
 1. Navigate to the `processor` directory:
 ```bash
@@ -68,13 +68,13 @@ java Main
 - Initializes the database using `schema.sql`.
 - Imports data from the `output` directory into the PostgreSQL database.
 - Computes PageRank scores and exports the results to `output/PageRankPoints`.
-
+![Pagerank Score](document/score.png)
 ### 2.4. Results
 - PageRank scores of graph nodes are saved in the `output/PageRankPoints` directory:
 - `pageRankPoints.json`: General PageRank results.
 - `IncrementalPageRankPoints.json`: Incremental PageRank results.
 ---
-
+![Visualization](document/visualize.png)
 ## 3. Report
 Detailed package design and the overall process are documented in the report file located in `report/OOP_Report.pdf`.
 
@@ -93,9 +93,9 @@ Detailed package design and the overall process are documented in the report fil
 If you’d like to contribute to this project:
 1. Fork the repository.
 2. Create a feature branch:
-
+```bash
 git checkout -b feature-branch
-
+```
 3. Commit your changes:
 ```bash
 git commit -m “Add new feature”
